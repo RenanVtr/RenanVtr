@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @RenanVtr, Mobile Developer.
+ #Hi! 
+- 👋I’m Renan, Android Mobile Developer.
 - 🌱 I’m currently learning Analysis and Systems Development
 - 🏅 You can find my certificates in "Certificates" repository
+- ![https://logospng.org/download/linkedin/logo-linkedin-256.png](https://www.linkedin/in/renanvitorgarcia)
+
 
 <!---
 RenanVtr/RenanVtr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
