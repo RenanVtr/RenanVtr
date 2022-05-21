@@ -25,8 +25,17 @@ class About extends Me {
 </code></pre>
 
 
-- 🏅 You can find my certificates in "Certificates" repository<br>
+- 🏅 You can find my certificates in <a href="https://github.com/RenanVtr/Certificates">Certificates</a> repository<br>
  
+ <h1>Projects</h1>
+ 
+ - <a href="https://github.com/RenanVtr/Sorteio">Lottery MegaSena</a>
+ - <a href="https://github.com/RenanVtr/NotThatFlix">Video Player NotThatFlix</a>
+ - <a href="https://github.com/RenanVtr/News">News</a>
+ - <a href="https://github.com/RenanVtr/Joquempo">Game Joquempo</a>
+ - <a href="https://github.com/RenanVtr/Alcool_ou_Gasolina">Alcohol or Gasoline</a> 
+ - <a href="https://github.com/RenanVtr/TesteDeInterface">Interface</a> 
+ - <a href="https://github.com/RenanVtr/Hamburgueria">Hamburger</a> 
  
  <h1>Connect with me</h1>
 <a href="https://www.linkedin.com/in/renanvitorgarcia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
