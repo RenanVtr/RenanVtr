@@ -2,10 +2,29 @@
 <p align="center" ><img src="https://i.pinimg.com/originals/05/eb/1e/05eb1eff72a56a17dea26091dbb1fdd3.png" height="100" align="middle" /> <br></p>
  <h2><p  align="center"><b>Android Mobile Developer</h4></b></p><br>
  
-<p align="center" ><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fgifs%2Fsearch%2Ftyping%2Bskeleton&psig=AOvVaw1u3btfvALtb3FrUSasq33L&ust=1653252791720000&source=images&cd=vfe&ved=2ahUKEwic8KHcvPH3AhX8CbkGHeHdAT4QjRx6BAgAEAs" align="middle" /> <br></p>
+<p align="center"><img src="VgBl.gif" height="250"></p>
 
-<i>Analysis and Systems Development at</i> <b>Faculdade Anhanguera</b><br>
-<i>Materials, Processes and Electronics Components at</i> <b>Fatec-SP</b><br>
+
+- <i>Analysis and Systems Development at</i> <b>Faculdade Anhanguera</b><br>
+- <i>Materials, Processes and Electronics Components at</i> <b>Fatec-SP</b><br>
+
+<h1>About me</h1>
+
+
+<pre><code>
+
+class About extends Me { 
+  const myTools = {  
+    ProgramingLanguages = [ "Java", "Kotlin"      ],
+    OtherLanguages      = [ "XML", "HTML", "CSS"  ],
+    Database            = [ "Firebase", "Sqlite"  ],
+    Editors             = [ "Android Studio"      ],
+    Platforms           = [ "Windows", "GNU/Linux"],
+    OtherTools          = [ "Git", "SVN"          ]};
+}
+</code></pre>
+
+
 - 🏅 You can find my certificates in "Certificates" repository<br>
  
  
