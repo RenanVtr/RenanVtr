@@ -1,4 +1,4 @@
- [h1]Hi![/h1] 
+ <h1>Hi!</h1> 
 - 👋I’m Renan, Android Mobile Developer.
 - 🌱 I’m currently learning Analysis and Systems Development
 - 🏅 You can find my certificates in "Certificates" repository
