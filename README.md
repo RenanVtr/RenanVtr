@@ -24,8 +24,50 @@ class About extends Me {
 }
 </code></pre>
 
+<h1>Certificates</h1>
 
-- 🏅 You can find my certificates in <a href="https://github.com/RenanVtr/Certificates">Certificates</a> repository<br>
+<b><h3>Languages</h3></b>
+<dl>
+ <dt>Java</dt>
+ <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/JAVA%20BASICO.pdf">Basico</a></dd>
+ 
+ <dt>Kotlin</dt>
+ <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/KOTLIN.pdf">Introdução</a></dd>
+ <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/POO%20KOTLIN.pdf">Fundamentos de Orientação a Objetos</a></dd>
+ <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/PRIMEIRO%20APP%20KOTLIN.pdf">Primeiro Aplicativo</a></dd>
+ <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/ARQUITETURA%20COM%20KOTLIN.pdf">Arquitetura de Plataforma Android</a></dd>
+ </dl>
+ <br>
+ 
+<b><h3>Android</h3></b>
+<dl>
+ <dt>IDE</dt>
+ <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/ANDROID%20STUDIO.pdf">Android Studio e Principais Ferramentas</a></dd>
+ <dt>Desenvolvimento de Aplicativos</dt>
+ <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/APLICACOES%20MOVEIS.pdf">Fundamentos</a></dd>
+ <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/NAVEGACAO%20APARENCIA%20E%20ESTILO.pdf">Navegação, Aparência e Estilo</a></dd>
+ <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/VIEWMODEL%20LIFECYCLE.pdf">ViewModel e Lifecycle</a></dd>
+ <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/SQLITE.pdf">SQLite</a></dd>
+ <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/DEBUGGING.pdf">Debugging, Tratamento de Erros e Exceções</a></dd>
+ <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/TDD%20E%20PADROES%20DE%20TESTES.pdf">TDD e Padrões de Teste</a></dd>
+ </dl>
+ <br>
+ <b><h3>Desenvolvimento de Sistemas</h3></b>
+ <dl>
+ <dt>Logica de Programação</dt>
+ <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/CERTIFICADO%20FUNDAMENTOS%20DE%20L%C3%93GICA%20DE%20PROGRAMA%C3%87%C3%83O.pdf">Fundamentos</a></dd>
+ <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/LOGICA%20DE%20PROGRAMACAO.pdf">Lógica de Programação Essencial</a></dd>
+ <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/COLECOES%20ARRAYS%20E%20LISTAS.pdf">Coleções, arrays e listas</a></dd>
+ <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/CERTIFICADO%20POO.pdf">POO</a></dd>
+ <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/CERTIFICADO%20UML.pdf">UML</a></dd>
+ <dt>Extras</dt>
+ <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/CERTIFICADO%20ETICA%20NO%20DESENVOLVIMENTO%20DE%20SISTEMAS.pdf">Ética</a></dd>
+ <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/PROJETOS%20AGEIS.pdf">Projetos Ágeis</a></dd>
+ <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/GIT%20E%20GITHUB.pdf">Introdução ao Git e Github</a></dd>
+ </dl>
+ 
+ 
+<!--- 🏅 You can find my certificates in <a href="https://github.com/RenanVtr/Certificates">Certificates</a> repository<br>-->
  
  <h1>Projects</h1>
  
