@@ -4,13 +4,18 @@
  
 <p align="center"><img src="VgBl.gif" height="250"></p>
 
+<h2>Estatisticas</h2>
 
-- <i>Analysis and Systems Development at</i> <b>Faculdade Anhanguera</b><br>
-- <i>Materials, Processes and Electronics Components at</i> <b>Fatec-SP</b><br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanvtr&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2>Principais linguagens</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanvtr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1>About me</h1>
 
-
+- <i>Analysis and Systems Development at</i> <b>Faculdade Anhanguera</b><br>
+- <i>Materials, Processes and Electronics Components at</i> <b>Fatec-SP</b><br>
 <pre><code>
 
 class About extends Me { 
