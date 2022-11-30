@@ -16,18 +16,7 @@
 
 - <i>Analysis and Systems Development at</i> <b>Faculdade Anhanguera</b><br>
 - <i>Materials, Processes and Electronics Components at</i> <b>Fatec-SP</b><br>
-<pre><code>
 
-class About extends Me { 
-  const myTools = {  
-    ProgramingLanguages = [ "Java", "Kotlin"      ],
-    OtherLanguages      = [ "XML", "HTML", "CSS"  ],
-    Database            = [ "Firebase", "Sqlite"  ],
-    Editors             = [ "Android Studio"      ],
-    Platforms           = [ "Windows", "GNU/Linux"],
-    OtherTools          = [ "Git", "SVN"          ]};
-}
-</code></pre>
 
 <h1>Certificates</h1>
 
