@@ -35,6 +35,7 @@ class About extends Me {
 <dl>
  <dt>Java</dt>
  <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/JAVA%20BASICO.pdf">Basico</a></dd>
+ <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/JAVA%20AVAN%C3%87ADO.pdf">Avançado</a></dd>
  
  <dt>Kotlin</dt>
  <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/KOTLIN.pdf">Introdução</a></dd>
@@ -69,6 +70,7 @@ class About extends Me {
  <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/CERTIFICADO%20ETICA%20NO%20DESENVOLVIMENTO%20DE%20SISTEMAS.pdf">Ética</a></dd>
  <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/PROJETOS%20AGEIS.pdf">Projetos Ágeis</a></dd>
  <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/GIT%20E%20GITHUB.pdf">Introdução ao Git e Github</a></dd>
+ >DD><A HREF="https://github.com/RenanVtr/Certificates/blob/main/PROJETOS%20DE%20SISTEMAS%20DE%20TI.pdf">Projetos de Sistemas de TI</a></dd>
  </dl>
  
  
@@ -83,6 +85,8 @@ class About extends Me {
  - <a href="https://github.com/RenanVtr/Alcool_ou_Gasolina">Alcohol or Gasoline</a> 
  - <a href="https://github.com/RenanVtr/TesteDeInterface">Interface</a> 
  - <a href="https://github.com/RenanVtr/Hamburgueria">Hamburger</a> 
+ - <a href="https://github.com/RenanVtr/ContaBancariaProject">Conta Bancaria</a>
+ - <a href="https://github.com/RenanVtr/OrganizzeClone">OrganizzeClone</a>
  
  <h1>Connect with me</h1>
 <a href="https://www.linkedin.com/in/renanvitorgarcia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
