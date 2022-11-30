@@ -70,7 +70,7 @@ class About extends Me {
  <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/CERTIFICADO%20ETICA%20NO%20DESENVOLVIMENTO%20DE%20SISTEMAS.pdf">Ética</a></dd>
  <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/PROJETOS%20AGEIS.pdf">Projetos Ágeis</a></dd>
  <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/GIT%20E%20GITHUB.pdf">Introdução ao Git e Github</a></dd>
- >DD><A HREF="https://github.com/RenanVtr/Certificates/blob/main/PROJETOS%20DE%20SISTEMAS%20DE%20TI.pdf">Projetos de Sistemas de TI</a></dd>
+ <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/PROJETOS%20DE%20SISTEMAS%20DE%20TI.pdf">Projetos de Sistemas de TI</a></dd>
  </dl>
  
  
