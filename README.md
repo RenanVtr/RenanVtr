@@ -6,7 +6,7 @@
 
 <h2>Estatisticas</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanvtr&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanVtr&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Principais linguagens</h2>
 
