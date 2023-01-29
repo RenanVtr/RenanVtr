@@ -62,7 +62,7 @@
  <dt>Extras</dt>
  <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/CERTIFICADO%20ETICA%20NO%20DESENVOLVIMENTO%20DE%20SISTEMAS.pdf">Ética</a></dd>
  <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/PROJETOS%20AGEIS.pdf">Projetos Ágeis</a></dd>
- <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/.pdf">Scrum</a></dd>
+ <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/SCRUM.pdf">Scrum</a></dd>
  <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/GIT%20E%20GITHUB.pdf">Introdução ao Git e Github</a></dd>
  <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/PROJETOS%20DE%20SISTEMAS%20DE%20TI.pdf">Projetos de Sistemas de TI</a></dd>
  </dl>
