@@ -4,7 +4,7 @@
  <img src="https://i.pinimg.com/originals/05/eb/1e/05eb1eff72a56a17dea26091dbb1fdd3.png" height="100" align="middle" /> 
  <img src="https://cafeinacodificada.com.br/wp-content/uploads/2019/02/kotlin.jpg" height="100" align="middle" /> 
  <br></p>
- <h2><p  align="center"><b>Android Mobile Developer</h4></b></p><br>
+ <h2><p  align="center"><b>Android Mobile / Java Developer</h4></b></p><br>
  
 <p align="center"><img src="VgBl.gif" height="250"></p>
 
