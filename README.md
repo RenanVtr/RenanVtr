@@ -4,25 +4,31 @@
 
 <p align="left">:speech_balloon: Hi! I'm Renan
  <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzdkNjJsY3VjdXQ2ZDA0dDRlZ2x6bGp0Ym10dTZmc3dkcHV6ZW9zMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.webp" height="250">
+
+  <img src="https://i.pinimg.com/originals/05/eb/1e/05eb1eff72a56a17dea26091dbb1fdd3.png" height="30" align="left" hspace="5" /> <b>Kotlin / Java Android  Developer</b><br>
+
+ :triangular_flag_on_post: From:<br>
+<img src="https://seekflag.com/wp-content/uploads/2021/11/Flag-of-Brazil-01-1.svg" height="12" hspace="5"/><i> - Brazil </i><br>
+<img src="https://github.com/iconolatry/brazilian-states-flags/blob/master/svg/sao-paulo.svg" height="12" hspace="5"/><i> - São Paulo </i>
+
+
 </p>
 <p>
- <img src="https://i.pinimg.com/originals/05/eb/1e/05eb1eff72a56a17dea26091dbb1fdd3.png" height="30" align="left" hspace="5" /> <b>Kotlin / Java Android  Developer</b><br>
+
  
 :mortar_board: <b>Faculdade Anhanguera</b> - <i>Analysis and Systems Development</i> <br>
 :mortar_board: <b>Fatec-SP</b> - <i>Materials, Processes and Electronics Components</i> <br>
 </p>
 <br>
 <br>
-<br>
-<br>
 
- <h2>Connect with me</h2>
+ <h2>:envelope: Connect with me</h2>
 <a href="https://www.linkedin.com/in/renanvitorgarcia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://wa.me/5511963153530"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="https://github.com/RenanVtr"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 
- <h2>Technologies & Tools</h2>
+ <h2> :wrench: Technologies & Tools</h2>
 
  Programming Languages:
 
@@ -59,7 +65,7 @@
 
 
 
-<h2>Certificates</h2>
+<h2>:scroll: Certificates</h2>
 
 <b><h3>Languages</h3></b>
 <dl>
