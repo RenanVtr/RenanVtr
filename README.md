@@ -1,12 +1,15 @@
  <h1>Hi! I’m Renan </h1> 
+
+ <p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzdkNjJsY3VjdXQ2ZDA0dDRlZ2x6bGp0Ym10dTZmc3dkcHV6ZW9zMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.webp" height="250"></p>
+   <h2><p  align="center"><b>Android Kotlin / Java Developer</h4></b></p>
 <p align="center" >
- <img src="https://inforchannel.com.br/wp-content/uploads/2021/03/e2d2f80e-java-logo-1.png" height="100" align="middle" /> 
- <img src="https://i.pinimg.com/originals/05/eb/1e/05eb1eff72a56a17dea26091dbb1fdd3.png" height="100" align="middle" /> 
- <img src="https://cafeinacodificada.com.br/wp-content/uploads/2019/02/kotlin.jpg" height="100" align="middle" /> 
+ <img src="https://cafeinacodificada.com.br/wp-content/uploads/2019/02/kotlin.jpg" height="100" align="middle" hspace="50" />
+ <img src="https://i.pinimg.com/originals/05/eb/1e/05eb1eff72a56a17dea26091dbb1fdd3.png" height="100" align="middle" hspace="50" /> 
+ <img src="https://inforchannel.com.br/wp-content/uploads/2021/03/e2d2f80e-java-logo-1.png" height="100" align="middle" hspace="50" /> 
  <br></p>
- <h2><p  align="center"><b>Android Mobile / Java Developer</h4></b></p><br>
+
  
-<p align="center"><img src="VgBl.gif" height="250"></p>
+
 
  
  <h1>Connect with me</h1>
