@@ -1,37 +1,65 @@
- <h1>Hi! I’m Renan </h1> 
+ <h1>Welcome to my GitHub!</h1>
 
- <p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzdkNjJsY3VjdXQ2ZDA0dDRlZ2x6bGp0Ym10dTZmc3dkcHV6ZW9zMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.webp" height="250"></p>
-   <h2><p  align="center"><b>Android Kotlin / Java Developer</h4></b></p>
-<p align="center" >
- <img src="https://cafeinacodificada.com.br/wp-content/uploads/2019/02/kotlin.jpg" height="100" align="middle" hspace="50" />
- <img src="https://i.pinimg.com/originals/05/eb/1e/05eb1eff72a56a17dea26091dbb1fdd3.png" height="100" align="middle" hspace="50" /> 
- <img src="https://inforchannel.com.br/wp-content/uploads/2021/03/e2d2f80e-java-logo-1.png" height="100" align="middle" hspace="50" /> 
- <br></p>
+<h2>:bust_in_silhouette:About me</h2>
 
+<p align="left">:speech_balloon: Hi! I'm Renan
+ <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzdkNjJsY3VjdXQ2ZDA0dDRlZ2x6bGp0Ym10dTZmc3dkcHV6ZW9zMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.webp" height="250">
+</p>
+<p>
+ <img src="https://i.pinimg.com/originals/05/eb/1e/05eb1eff72a56a17dea26091dbb1fdd3.png" height="30" align="left" hspace="5" /> <b>Kotlin / Java Android  Developer</b><br>
  
+:mortar_board: <b>Faculdade Anhanguera</b> - <i>Analysis and Systems Development</i> <br>
+:mortar_board: <b>Fatec-SP</b> - <i>Materials, Processes and Electronics Components</i> <br>
+</p>
+<br>
+<br>
+<br>
+<br>
 
-
- 
- <h1>Connect with me</h1>
+ <h2>Connect with me</h2>
 <a href="https://www.linkedin.com/in/renanvitorgarcia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://wa.me/5511963153530"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="https://github.com/RenanVtr"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<h2>Estatísticas</h2>
+
+ <h2>Technologies & Tools</h2>
+
+ Programming Languages:
+
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+ Tools and Services:
+ 
+ ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
+ ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+ ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+ ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+ Databases:
+
+ ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+ ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+ ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+ Operating System:
+
+ ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+ ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+ ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+ Statistics:
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanvtr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanVtr&show_icons=true&theme=highcontrast&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2>Principais linguagens</h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanvtr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<h1>About me</h1>
-
-- <i>Analysis and Systems Development at</i> <b>Faculdade Anhanguera</b><br>
-- <i>Materials, Processes and Electronics Components at</i> <b>Fatec-SP</b><br>
 
 
-<h1>Certificates</h1>
+<h2>Certificates</h2>
 
 <b><h3>Languages</h3></b>
 <dl>
@@ -75,7 +103,7 @@
  <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/GIT%20E%20GITHUB.pdf">Introdução ao Git e Github</a></dd>
  <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/PROJETOS%20DE%20SISTEMAS%20DE%20TI.pdf">Projetos de Sistemas de TI</a></dd>
  </dl>
- 
+
  
 <!--- 🏅 You can find my certificates in <a href="https://github.com/RenanVtr/Certificates">Certificates</a> repository<br>-->
  
