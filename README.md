@@ -63,56 +63,161 @@
 
 <h2>:scroll: Certificates</h2>
 
-<b><h3>Languages</h3></b>
+Main certificates:
+
 <table align="center">
  <thead>
   <th align="center">Course</th>
   <th align="center">Workload (hours) </th>
+   <th align="center">Date </th>
   <th align="center">Certificate</th>
  </thead>
 <tbody>
  <tr>
   <td align="center">Java programming language - Basic</td>
   <td align="center">5</td>
+  <td align="center">May 2022</td>
   <td align="center"><a href="https://github.com/RenanVtr/Certificates/blob/main/JAVA%20BASICO.pdf">:open_file_folder:</a></td>
  </tr>
   <tr>
   <td align="center">Java programming language - Advanced</td>
   <td align="center">16</td>
+  <td align="center">October 2022</td>
   <td align="center"><a href="https://github.com/RenanVtr/Certificates/blob/main/JAVA%20AVANCADO.pdf">:open_file_folder:</a></td>
  </tr>
    <tr>
   <td align="center">Introduction to Kotlin</td>
   <td align="center">6</td>
+  <td align="center">July 2021</td>
   <td align="center"><a href="https://github.com/RenanVtr/Certificates/blob/main/KOTLIN.pdf"">:open_file_folder:</a></td>
  </tr>
     <tr>
   <td align="center">Object Orientation Fundamentals using Kotlin</td>
   <td align="center">6</td>
+  <td align="center">August 2021</td>
   <td align="center"><a href="https://github.com/RenanVtr/Certificates/blob/main/POO%20KOTLIN.pdf">:open_file_folder:</a></td>
+ </tr>
+ <tr>
+  <td align="center">Android Platform Architecture using Kotlin</td>
+  <td align="center">3</td>
+  <td align="center">August 2021</td>
+  <td align="center"><a href="https://github.com/RenanVtr/Certificates/blob/main/ARQUITETURA%20COM%20KOTLIN.pdf">:open_file_folder:</a></td>
+ </tr>
+ <tr>
+  <td align="center">Android Studio and Main Tools</td>
+  <td align="center">3</td>
+  <td align="center">August 2021</td>
+  <td align="center"><a href="https://github.com/RenanVtr/Certificates/blob/main/ANDROID%20STUDIO.pdf">:open_file_folder:</a></td>
+ </tr>
+ <tr>
+  <td align="center">Fundamentals of Mobile Applications</td>
+  <td align="center">12</td>
+  <td align="center">May 2022</td>
+  <td align="center"><a href="https://github.com/RenanVtr/Certificates/blob/main/APLICACOES%20MOVEIS.pdf">:open_file_folder:</a></td>
+ </tr>
+  <tr>
+  <td align="center">Navigation, Appearance and Style</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center"><a href="https://github.com/RenanVtr/Certificates/blob/main/NAVEGACAO%20APARENCIA%20E%20ESTILO.pdf">:open_file_folder:</a></td>
+ </tr>
+   <tr>
+  <td align="center">ViewModel and Lifecycle</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center"><a href="https://github.com/RenanVtr/Certificates/blob/main/VIEWMODEL%20LIFECYCLE.pdf">:open_file_folder:</a></td>
+ </tr>
+   <tr>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center"><a href="">:open_file_folder:</a></td>
+ </tr>
+   <tr>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center"><a href="">:open_file_folder:</a></td>
+ </tr>
+   <tr>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center"><a href="">:open_file_folder:</a></td>
+ </tr>
+   <tr>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center"><a href="">:open_file_folder:</a></td>
+ </tr>
+   <tr>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center"><a href="">:open_file_folder:</a></td>
+ </tr>
+   <tr>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center"><a href="">:open_file_folder:</a></td>
+ </tr>
+   <tr>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center"><a href="">:open_file_folder:</a></td>
+ </tr>
+   <tr>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center"><a href="">:open_file_folder:</a></td>
+ </tr>
+   <tr>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center"><a href="">:open_file_folder:</a></td>
+ </tr>
+   <tr>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center"><a href="">:open_file_folder:</a></td>
+ </tr>
+   <tr>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center"><a href="">:open_file_folder:</a></td>
+ </tr>
+   <tr>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center"><a href="">:open_file_folder:</a></td>
+ </tr>
+   <tr>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center"><a href="">:open_file_folder:</a></td>
+ </tr>
+   <tr>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center"><a href="">:open_file_folder:</a></td>
  </tr>
 </tbody>
 </table>
 
-<dl>
- <dt>Java</dt>
- <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/JAVA%20BASICO.pdf">Basico</a></dd>
- <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/JAVA%20AVANCADO.pdf">Avançado</a></dd>
- 
- <dt>Kotlin</dt>
- <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/KOTLIN.pdf">Introdução</a></dd>
- <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/POO%20KOTLIN.pdf">Fundamentos de Orientação a Objetos</a></dd>
- <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/PRIMEIRO%20APP%20KOTLIN.pdf">Primeiro Aplicativo</a></dd>
- <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/ARQUITETURA%20COM%20KOTLIN.pdf">Arquitetura de Plataforma Android</a></dd>
- </dl>
- <br>
  
 <b><h3>Android</h3></b>
 <dl>
- <dt>IDE</dt>
- <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/ANDROID%20STUDIO.pdf">Android Studio e Principais Ferramentas</a></dd>
- <dt>Desenvolvimento de Aplicativos</dt>
- <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/APLICACOES%20MOVEIS.pdf">Fundamentos</a></dd>
+
  <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/NAVEGACAO%20APARENCIA%20E%20ESTILO.pdf">Navegação, Aparência e Estilo</a></dd>
  <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/VIEWMODEL%20LIFECYCLE.pdf">ViewModel e Lifecycle</a></dd>
  <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/SQLITE.pdf">SQLite</a></dd>
