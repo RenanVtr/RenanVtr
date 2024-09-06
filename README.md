@@ -61,17 +61,43 @@
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanvtr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanVtr&show_icons=true&theme=highcontrast&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 <h2>:scroll: Certificates</h2>
 
 <b><h3>Languages</h3></b>
+<table align="center">
+ <thead>
+  <th align="center">Course</th>
+  <th align="center">Workload (hours) </th>
+  <th align="center">Certificate</th>
+ </thead>
+<tbody>
+ <tr>
+  <td align="center">Java programming language - Basic</td>
+  <td align="center">5</td>
+  <td align="center"><a href="https://github.com/RenanVtr/Certificates/blob/main/JAVA%20BASICO.pdf">:open_file_folder:</a></td>
+ </tr>
+  <tr>
+  <td align="center">Java programming language - Advanced</td>
+  <td align="center">16</td>
+  <td align="center"><a href="https://github.com/RenanVtr/Certificates/blob/main/JAVA%20AVANCADO.pdf">:open_file_folder:</a></td>
+ </tr>
+   <tr>
+  <td align="center">Introduction to Kotlin</td>
+  <td align="center">6</td>
+  <td align="center"><a href="https://github.com/RenanVtr/Certificates/blob/main/KOTLIN.pdf"">:open_file_folder:</a></td>
+ </tr>
+    <tr>
+  <td align="center">Object Orientation Fundamentals using Kotlin</td>
+  <td align="center">6</td>
+  <td align="center"><a href="https://github.com/RenanVtr/Certificates/blob/main/POO%20KOTLIN.pdf">:open_file_folder:</a></td>
+ </tr>
+</tbody>
+</table>
+
 <dl>
  <dt>Java</dt>
  <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/JAVA%20BASICO.pdf">Basico</a></dd>
- <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/JAVA%20AVAN%C3%87ADO.pdf">Avançado</a></dd>
+ <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/JAVA%20AVANCADO.pdf">Avançado</a></dd>
  
  <dt>Kotlin</dt>
  <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/KOTLIN.pdf">Introdução</a></dd>
