@@ -117,131 +117,98 @@ Main certificates:
  </tr>
   <tr>
   <td align="center">Navigation, Appearance and Style</td>
-  <td align="center"></td>
-  <td align="center"></td>
+  <td align="center">4</td>
+  <td align="center">September 2021</td>
   <td align="center"><a href="https://github.com/RenanVtr/Certificates/blob/main/NAVEGACAO%20APARENCIA%20E%20ESTILO.pdf">:open_file_folder:</a></td>
  </tr>
    <tr>
   <td align="center">ViewModel and Lifecycle</td>
-  <td align="center"></td>
-  <td align="center"></td>
+  <td align="center">1</td>
+  <td align="center">September 2021</td>
   <td align="center"><a href="https://github.com/RenanVtr/Certificates/blob/main/VIEWMODEL%20LIFECYCLE.pdf">:open_file_folder:</a></td>
  </tr>
    <tr>
-  <td align="center"></td>
-  <td align="center"></td>
-  <td align="center"></td>
-  <td align="center"><a href="">:open_file_folder:</a></td>
+  <td align="center">Integrated Data Development with SQLite</td>
+  <td align="center">7</td>
+  <td align="center">September 2021</td>
+  <td align="center"><a href="https://github.com/RenanVtr/Certificates/blob/main/SQLITE.pdf">:open_file_folder:</a></td>
  </tr>
    <tr>
-  <td align="center"></td>
-  <td align="center"></td>
-  <td align="center"></td>
-  <td align="center"><a href="">:open_file_folder:</a></td>
+  <td align="center">Debugging, Error and Exception Handling</td>
+  <td align="center">4</td>
+  <td align="center">August 2021</td>
+  <td align="center"><a href="https://github.com/RenanVtr/Certificates/blob/main/DEBUGGING.pdf">:open_file_folder:</a></td>
  </tr>
    <tr>
-  <td align="center"></td>
-  <td align="center"></td>
-  <td align="center"></td>
-  <td align="center"><a href="">:open_file_folder:</a></td>
+  <td align="center">TDD and Testing Patterns in Android Application Development</td>
+  <td align="center">1</td>
+  <td align="center">September 2021</td>
+  <td align="center"><a href="https://github.com/RenanVtr/Certificates/blob/main/TDD%20E%20PADROES%20DE%20TESTES.pdf">:open_file_folder:</a></td>
  </tr>
    <tr>
-  <td align="center"></td>
-  <td align="center"></td>
-  <td align="center"></td>
-  <td align="center"><a href="">:open_file_folder:</a></td>
+  <td align="center">Fundamentals of Programming Logic</td>
+  <td align="center">15</td>
+  <td align="center">March 2019</td>
+  <td align="center"><a href="https://github.com/RenanVtr/Certificates/blob/main/CERTIFICADO%20FUNDAMENTOS%20DE%20L%C3%93GICA%20DE%20PROGRAMA%C3%87%C3%83O.pdf">:open_file_folder:</a></td>
  </tr>
    <tr>
-  <td align="center"></td>
-  <td align="center"></td>
-  <td align="center"></td>
-  <td align="center"><a href="">:open_file_folder:</a></td>
+  <td align="center">Essential Programming Logic</td>
+  <td align="center">4</td>
+  <td align="center">July 2021</td>
+  <td align="center"><a href="https://github.com/RenanVtr/Certificates/blob/main/LOGICA%20DE%20PROGRAMACAO.pdf">:open_file_folder:</a></td>
  </tr>
    <tr>
-  <td align="center"></td>
-  <td align="center"></td>
-  <td align="center"></td>
-  <td align="center"><a href="">:open_file_folder:</a></td>
+  <td align="center">Collections, arrays and lists</td>
+  <td align="center">5</td>
+  <td align="center">August 2021</td>
+  <td align="center"><a href="https://github.com/RenanVtr/Certificates/blob/main/COLECOES%20ARRAYS%20E%20LISTAS.pdf">:open_file_folder:</a></td>
  </tr>
    <tr>
-  <td align="center"></td>
-  <td align="center"></td>
-  <td align="center"></td>
-  <td align="center"><a href="">:open_file_folder:</a></td>
+  <td align="center">Introduction to Object-Oriented Programming</td>
+  <td align="center">10</td>
+  <td align="center">March 2019</td>
+  <td align="center"><a href="https://github.com/RenanVtr/Certificates/blob/main/CERTIFICADO%20POO.pdf">:open_file_folder:</a></td>
  </tr>
    <tr>
-  <td align="center"></td>
-  <td align="center"></td>
-  <td align="center"></td>
-  <td align="center"><a href="">:open_file_folder:</a></td>
+  <td align="center">Unified Modeling Language (UML)</td>
+  <td align="center">12</td>
+  <td align="center">March 2019</td>
+  <td align="center"><a href="https://github.com/RenanVtr/Certificates/blob/main/CERTIFICADO%20UML.pdf">:open_file_folder:</a></td>
  </tr>
    <tr>
-  <td align="center"></td>
-  <td align="center"></td>
-  <td align="center"></td>
-  <td align="center"><a href="">:open_file_folder:</a></td>
+  <td align="center">Ethics in Systems Development</td>
+  <td align="center">8</td>
+  <td align="center">March 2019</td>
+  <td align="center"><a href="https://github.com/RenanVtr/Certificates/blob/main/CERTIFICADO%20ETICA%20NO%20DESENVOLVIMENTO%20DE%20SISTEMAS.pdf">:open_file_folder:</a></td>
  </tr>
    <tr>
-  <td align="center"></td>
-  <td align="center"></td>
-  <td align="center"></td>
-  <td align="center"><a href="">:open_file_folder:</a></td>
+  <td align="center">Agile Projects</td>
+  <td align="center">20</td>
+  <td align="center">February 2020</td>
+  <td align="center"><a href="https://github.com/RenanVtr/Certificates/blob/main/PROJETOS%20AGEIS.pdf">:open_file_folder:</a></td>
  </tr>
    <tr>
-  <td align="center"></td>
-  <td align="center"></td>
-  <td align="center"></td>
-  <td align="center"><a href="">:open_file_folder:</a></td>
+  <td align="center">Fast and Practical Scrum</td>
+  <td align="center">3</td>
+  <td align="center">January 2023</td>
+  <td align="center"><a href="https://github.com/RenanVtr/Certificates/blob/main/SCRUM.pdf">:open_file_folder:</a></td>
  </tr>
    <tr>
-  <td align="center"></td>
-  <td align="center"></td>
-  <td align="center"></td>
-  <td align="center"><a href="">:open_file_folder:</a></td>
+  <td align="center">Introduction to Git and Github</td>
+  <td align="center">5</td>
+  <td align="center">July 2021</td>
+  <td align="center"><a href="https://github.com/RenanVtr/Certificates/blob/main/GIT%20E%20GITHUB.pdf">:open_file_folder:</a></td>
  </tr>
    <tr>
-  <td align="center"></td>
-  <td align="center"></td>
-  <td align="center"></td>
-  <td align="center"><a href="">:open_file_folder:</a></td>
- </tr>
-   <tr>
-  <td align="center"></td>
-  <td align="center"></td>
-  <td align="center"></td>
-  <td align="center"><a href="">:open_file_folder:</a></td>
+  <td align="center">IT System Projects</td>
+  <td align="center">15</td>
+  <td align="center">October 2022</td>
+  <td align="center"><a href="https://github.com/RenanVtr/Certificates/blob/main/PROJETOS%20DE%20SISTEMAS%20DE%20TI.pdf">:open_file_folder:</a></td>
  </tr>
 </tbody>
 </table>
 
- 
-<b><h3>Android</h3></b>
-<dl>
 
- <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/NAVEGACAO%20APARENCIA%20E%20ESTILO.pdf">Navegação, Aparência e Estilo</a></dd>
- <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/VIEWMODEL%20LIFECYCLE.pdf">ViewModel e Lifecycle</a></dd>
- <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/SQLITE.pdf">SQLite</a></dd>
- <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/DEBUGGING.pdf">Debugging, Tratamento de Erros e Exceções</a></dd>
- <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/TDD%20E%20PADROES%20DE%20TESTES.pdf">TDD e Padrões de Teste</a></dd>
- </dl>
- <br>
- <b><h3>Desenvolvimento de Sistemas</h3></b>
- <dl>
- <dt>Logica de Programação</dt>
- <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/CERTIFICADO%20FUNDAMENTOS%20DE%20L%C3%93GICA%20DE%20PROGRAMA%C3%87%C3%83O.pdf">Fundamentos</a></dd>
- <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/LOGICA%20DE%20PROGRAMACAO.pdf">Lógica de Programação Essencial</a></dd>
- <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/COLECOES%20ARRAYS%20E%20LISTAS.pdf">Coleções, arrays e listas</a></dd>
- <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/CERTIFICADO%20POO.pdf">POO</a></dd>
- <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/CERTIFICADO%20UML.pdf">UML</a></dd>
- <dt>Extras</dt>
- <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/CERTIFICADO%20ETICA%20NO%20DESENVOLVIMENTO%20DE%20SISTEMAS.pdf">Ética</a></dd>
- <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/PROJETOS%20AGEIS.pdf">Projetos Ágeis</a></dd>
- <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/SCRUM.pdf">Scrum</a></dd>
- <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/GIT%20E%20GITHUB.pdf">Introdução ao Git e Github</a></dd>
- <dd><a href="https://github.com/RenanVtr/Certificates/blob/main/PROJETOS%20DE%20SISTEMAS%20DE%20TI.pdf">Projetos de Sistemas de TI</a></dd>
- </dl>
-
- 
 <!--- 🏅 You can find my certificates in <a href="https://github.com/RenanVtr/Certificates">Certificates</a> repository<br>-->
  
  <h1>Projects</h1>
