@@ -201,7 +201,7 @@ Main certificates:
 </tbody>
 </table>
  
- ## Projects
+ ## :hammer: Projects
  
  - <a href="https://github.com/RenanVtr/Sorteio">Lottery MegaSena</a>
  - <a href="https://github.com/RenanVtr/NotThatFlix">Video Player NotThatFlix</a>
