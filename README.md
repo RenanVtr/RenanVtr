@@ -1,34 +1,27 @@
- <h1>Welcome to my GitHub!</h1>
+ # Welcome to my GitHub!
 
-<h2>:bust_in_silhouette:About me</h2>
+## :bust_in_silhouette:About me
 
-<p align="left">:speech_balloon: Hi! I'm Renan
- <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzdkNjJsY3VjdXQ2ZDA0dDRlZ2x6bGp0Ym10dTZmc3dkcHV6ZW9zMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.webp" height="250">
+:speech_balloon: Hi! I'm Renan
+<img align="right" height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzdkNjJsY3VjdXQ2ZDA0dDRlZ2x6bGp0Ym10dTZmc3dkcHV6ZW9zMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.webp" >
 
-  <img src="https://i.pinimg.com/originals/05/eb/1e/05eb1eff72a56a17dea26091dbb1fdd3.png" height="30" align="left" hspace="5" /> <b>Kotlin / Java Android  Developer</b><br>
+<img src="https://i.pinimg.com/originals/05/eb/1e/05eb1eff72a56a17dea26091dbb1fdd3.png" height="30" align="left" hspace="5" /> **Kotlin / Java Android  Developer**
 
- :triangular_flag_on_post: From:<br>
-<img src="https://seekflag.com/wp-content/uploads/2021/11/Flag-of-Brazil-01-1.svg" height="12" hspace="5"/><i> - Brazil </i><br>
-<img src="https://github.com/iconolatry/brazilian-states-flags/blob/master/svg/sao-paulo.svg" height="12" hspace="5"/><i> - São Paulo </i>
+:triangular_flag_on_post: From:
 
-
-</p>
-<p>
-
- 
-:mortar_board: <b>Faculdade Anhanguera</b> - <i>Analysis and Systems Development</i> <br>
-:mortar_board: <b>Fatec-SP</b> - <i>Materials, Processes and Electronics Components</i> <br>
-</p>
-<br>
-<br>
-
- <h2>:envelope: Connect with me</h2>
-<a href="https://www.linkedin.com/in/renanvitorgarcia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://wa.me/5511963153530"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://github.com/RenanVtr"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://seekflag.com/wp-content/uploads/2021/11/Flag-of-Brazil-01-1.svg" height="12" hspace="5"/> *- Brazil*<br>
+<img src="https://github.com/iconolatry/brazilian-states-flags/blob/master/svg/sao-paulo.svg" height="12" hspace="5"/> *- São Paulo*
 
 
- <h2> :wrench: Technologies & Tools</h2>
+Graduated:
+
+:mortar_board: **Faculdade Anhanguera** - *Analysis and Systems Development*
+
+:mortar_board: **Fatec-SP** - *Materials, Processes and Electronics Components*
+
+
+
+ ## :wrench: Technologies & Tools
 
  Programming Languages:
 
@@ -61,7 +54,7 @@
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanvtr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2>:scroll: Certificates</h2>
+## :scroll: Certificates
 
 Main certificates:
 
@@ -207,11 +200,8 @@ Main certificates:
  </tr>
 </tbody>
 </table>
-
-
-<!--- 🏅 You can find my certificates in <a href="https://github.com/RenanVtr/Certificates">Certificates</a> repository<br>-->
  
- <h1>Projects</h1>
+ ## Projects
  
  - <a href="https://github.com/RenanVtr/Sorteio">Lottery MegaSena</a>
  - <a href="https://github.com/RenanVtr/NotThatFlix">Video Player NotThatFlix</a>
@@ -223,6 +213,10 @@ Main certificates:
  - <a href="https://github.com/RenanVtr/ContaBancariaProject">Conta Bancaria</a>
  - <a href="https://github.com/RenanVtr/OrganizzeClone">OrganizzeClone</a>
 
+## :envelope: Connect with me
+<a href="https://www.linkedin.com/in/renanvitorgarcia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://wa.me/5511963153530"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://github.com/RenanVtr"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <!---
 RenanVtr/RenanVtr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
